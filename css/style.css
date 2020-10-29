@@ -1,0 +1,52 @@
+
+.container {
+    width: 1140px;
+    margin: 10%auto;
+}
+
+body{
+
+	background:url(../image/bgimage.jpg);
+	 background-repeat: no-repeat;
+	 background-size: cover;
+
+	}
+
+
+
+	}
+
+
+.login-page{
+
+}
+.login-page img { display: block;
+	margin: 0px auto; size: 500px;
+
+
+}
+.Form {
+    display: block;
+    margin: 0px auto;
+    margin-bottom: -13px;
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+
+.loginbtn {
+    display: block;
+    margin: 0px auto;
+    background-color: tomato;
+    padding: 12px 59px;
+    text-transform: uppercase;
+    color: #114a7b;
+    font-weight: bold;
+}
+
+
+
+.regpage {
+	display: block; margin: 0px auto;
+}
